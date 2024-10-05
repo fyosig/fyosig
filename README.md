@@ -1,5 +1,7 @@
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=fyosig&color=ac8586&label=times+fyodor+and+nikolai+kissed)
-  </p>
+  </div>
 <p align="center"><img src="https://github.com/user-attachments/assets/2f0abf7e-5f9f-47d5-80a4-cadaf464a960">
 <br> 
   <br>
@@ -11,3 +13,4 @@ $\color{#6f6587}{Let~them~flow,~let~them~flow~}$
 $\color{#8f7484}{they~don't~hurt~anybody,~They~will~dry,~}$ $\color{#a48095}{Nastenka.”}$
 <br>
 <br>
+  
