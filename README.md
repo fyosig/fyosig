@@ -2,10 +2,10 @@
 <br> 
   <br>
   <br>
-$\color{#58587e}{“Here~my~tears~are~falling,~Nastenka.}$
+$\color{#58587e}{“Here~my~tears~are~falling,~}$ $\color{#37375e}{Nastenka.”}$
 <br>
-$\color{#58587e}{Let~them~flow,~let~them~flow~}$
+$\color{#6f6587}{Let~them~flow,~let~them~flow~}$
 <br>
-$\color{#58587e}{they~don't~hurt~anybody,~They~will~dry,~Nastenka.”}$
+$\color{#8f7484}{they~don't~hurt~anybody,~They~will~dry,~}$ $\color{#a48095}{Nastenka.”}$
 <br>
 <br>
